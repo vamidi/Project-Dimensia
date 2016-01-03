@@ -1,0 +1,17 @@
+Artists
+	Johan
+	- Concept art
+
+	Yutara
+	- Concept art
+
+Programmers
+	Valencio
+	- Basic movement
+	- Basic combat
+
+Designers
+	John
+	- explaination dimension.
+	- Player rules. 
+	- programming a framework for battle actions.
